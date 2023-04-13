@@ -90,3 +90,4 @@ productManager.addProduct(product3);
 productManager.addProduct(product5);
 
 console.log(productManager.getProducts()); // muestra los productos con sus IDs asignados
+ ""
